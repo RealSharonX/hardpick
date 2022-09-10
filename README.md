@@ -1,0 +1,1 @@
+HardPick is a website that gives you the best hardware component you need for your budget. Scraping data and API creation was achieved  by Amine-Zitoun, I managed the website to display the data and connect to the API.
